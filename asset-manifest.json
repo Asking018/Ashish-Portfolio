@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Ashish-Portfolio/static/css/main.cd7ae72b.css",
+    "main.js": "/Ashish-Portfolio/static/js/main.ced1aadb.js",
+    "static/media/figma.png": "/Ashish-Portfolio/static/media/figma.95e8dc1de570ab06efaa.png",
+    "static/media/lens.png": "/Ashish-Portfolio/static/media/lens.636ecaf1e77bcf1fb446.png",
+    "static/media/crypto.jpg": "/Ashish-Portfolio/static/media/crypto.720c7a3418749e50ff52.jpg",
+    "static/media/ecommerce.jpg": "/Ashish-Portfolio/static/media/ecommerce.a2c578b91e12d94e7538.jpg",
+    "static/media/image.jpg": "/Ashish-Portfolio/static/media/image.b2355b796af6d31f83fb.jpg",
+    "static/media/sass.jpg": "/Ashish-Portfolio/static/media/sass.c78418b2ff6e7d7d831d.jpg",
+    "static/media/keeper.jpg": "/Ashish-Portfolio/static/media/keeper.1d3094eff9881c07d3f7.jpg",
+    "static/media/react.png": "/Ashish-Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/Spark.png": "/Ashish-Portfolio/static/media/Spark.8ebe5a3e33a4ac635ffd.png",
+    "static/media/github.png": "/Ashish-Portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/Ashish-Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/Ashish-Portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/Ashish-Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/Ashish-Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/Ashish-Portfolio/index.html",
+    "main.cd7ae72b.css.map": "/Ashish-Portfolio/static/css/main.cd7ae72b.css.map",
+    "main.ced1aadb.js.map": "/Ashish-Portfolio/static/js/main.ced1aadb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd7ae72b.css",
+    "static/js/main.ced1aadb.js"
+  ]
+}
